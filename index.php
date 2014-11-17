@@ -1,4 +1,4 @@
 <?php
     phpinfo();
-	echo "esse foi alterado no gold.";
+	echo "esse veio do premium";
 ?>
