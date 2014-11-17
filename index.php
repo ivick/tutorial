@@ -1,4 +1,4 @@
 <?php
     phpinfo();
-	echo "branch gold criado";
+	echo "esse foi alterado no gold.";
 ?>
